@@ -1,0 +1,3 @@
+# add additional python libraries here
+xgboost==1.6.1
+scikit-learn==1.1.2
